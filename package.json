@@ -1,0 +1,14 @@
+{
+  "name": "local-network-chat",
+  "version": "1.0.0",
+  "description": "Simple local network chat application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^2.0.2",
+    "socket.io": "^4.6.1"
+  }
+}
